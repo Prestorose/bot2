@@ -1,4 +1,4 @@
-const server = "1074154728545583174"
+const server = "1541740491895341096"
 const areCommandsDifferent = require("../../utils/areCommandsDifferent")
 const getApplicationCommands = require("../../utils/getApplicationCommands")
 const getLocalCommands = require("../../utils/getLocalCommands")
